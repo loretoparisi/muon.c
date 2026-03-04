@@ -236,6 +236,8 @@ Unlike the Python implementation (which mutates `grad` in-place via `lerp_`), th
 - [Theoretical background](https://jeremybernste.in/writing/deriving-muon) — Jeremy Bernstein
 - [llm.c](https://github.com/karpathy/llm.c) — production C/CUDA ML reference
 - [micro-gpt.py](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95) — the Python original this project ports
+- [microgpt.c](https://github.com/loretoparisi/microgpt.c) — Microgpt
+- [adamw.c](https://github.com/loretoparisi/adamw.c) — AdamW in Pure C; sibling file; same structural conventions
 
 ---
 
